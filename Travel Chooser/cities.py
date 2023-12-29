@@ -1,0 +1,21 @@
+cities = [
+    'Atlanta, GA',
+    'Austin, TX',  
+    'Boston, MA', 
+    'Charlotte, NC', 
+    'Chicago, IL', 
+    'Daytona, FL',  
+    'Denver, CO', 
+    'Houston, TX', 
+    'Kansas City, MO', 
+    'Key West, FL', 
+    'Las Vegas, NV', 
+    'Miami, FL', 
+    'New Orleans, LA', 
+    'Portland, OR', 
+    'Phoenix, AZ', 
+    'Savannah, GA', 
+    'San Diego, CA', 
+    'Seattle, WA', 
+
+]
